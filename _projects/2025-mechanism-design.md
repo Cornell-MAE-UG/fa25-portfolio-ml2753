@@ -18,4 +18,5 @@ The plan was to draw the free body diagram of the entire mechanism first at 50cm
 
 The extended length of the actuator and rigid bar were calculated based on the specifications, then the exploded parts of the mechanisms were drawn as separate free body diagrams. Using the free body diagrams, the reaction forces were computed using force and moment balance equations. Using the moment balance about the pin connected to the rigid bar at the ground, the maximum force that can be held is 11.70 kN at 50 cm above ground level.
 
+![Images of design process]({{ "/assets/images/mech-fbds.jpg" | relative_url }}){: style="width: 100%; height: auto;"}
 ![Images of final design]({{ "/assets/images/mech-drawing.png" | relative_url }}){: style="width: 100%; height: auto;"}
