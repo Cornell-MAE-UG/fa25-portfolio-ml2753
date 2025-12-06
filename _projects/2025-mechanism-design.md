@@ -6,6 +6,7 @@ technologies: [Rhinoceros 3D]
 image: /assets/images/mech-drawing.png
 ---
 
+
 **STEP ONE.** The bar is treated as rigid, and a static analysis is performed to determine reactions and optimize the mechanism layout within the given constraints.
 
 **Problem constraints, objectives, and degrees of freedom.** The design problem required creating a frame/mechanism capable of lifting the maximum possible weight to the highest point within a 150 cm × 50 cm bounding box. The components provided included three pin supports (two mounted to the ground), a rigid bar, and a linear actuator selected from [this catalog](https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf), using only the maximum force values. The supports and bar/actuator were assumed rigid. With the two ground-mounted pins constraining translation and the actuator controlling linear motion, the bar had one primary degree of freedom: rotation about the pin axis as it lifted the load.
